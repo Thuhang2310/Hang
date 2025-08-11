@@ -1,0 +1,30 @@
+/* .wrapper{
+    color: blue;
+} */
+/* 
+.content: nth-child(1){
+    backround-color: yellow;
+} */
+
+/* button {
+  font-size: 32px;
+  padding: 8px 16px;
+}
+
+button:hover {
+  background: yellow;
+  color: white;
+} */
+
+.wrap .item:nth-child(2){
+    color: green;
+}
+.wrap .item:nth-child(4){
+    color: green;
+}
+.p{
+    color: red;
+}
+.th{
+    backround color: #FFE0B2;
+}
